@@ -1,0 +1,4 @@
+﻿Service should give option to change user password:
+Password must have a minimum of 6 characters
+Password must have at least one small, one capital, one special character and one number
+Password cannot be the same as old user passwords up to 6 times back
